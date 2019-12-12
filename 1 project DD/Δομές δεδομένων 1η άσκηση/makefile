@@ -1,0 +1,1 @@
+Toll_Posts_Simulation:  ch6_QArray.c ch6_Simulation.c TController.c TStoixeiouOuras.c Toll_Posts_Simulation.c;gcc -o  Toll_Posts_Simulation ch6_QArray.c ch6_Simulation.c TController.c TStoixeiouOuras.c Toll_Posts_Simulation.c
